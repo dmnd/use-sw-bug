@@ -1,0 +1,11 @@
+{
+  "name": "use-sw-bug",
+  "version": "1.0.0",
+  "dependencies": {
+    "sw-bug": {
+      "version": "1.0.0",
+      "from": "codykrainock/sw-bug",
+      "resolved": "git://github.com/codykrainock/sw-bug.git#c834e964c7ad5388ed5a821d54ad4c92c9dac41f"
+    }
+  }
+}

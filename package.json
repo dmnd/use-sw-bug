@@ -1,0 +1,14 @@
+{
+  "name": "use-sw-bug",
+  "version": "1.0.0",
+  "description": "",
+  "main": "index.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "author": "",
+  "license": "ISC",
+  "dependencies": {
+    "sw-bug": "github:codykrainock/sw-bug"
+  }
+}
